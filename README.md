@@ -29,5 +29,5 @@ npm run test
 
 ## Données de contact
 
-- **Email** : dordrone2446@gmail.com  
+- **Email** : dordrone.2446@gmail.com  
 - **Tel/WhatsApp** : +33 6 88 60 82 22
